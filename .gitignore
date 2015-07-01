@@ -1,0 +1,3 @@
+.*
+!.gitignore
+WebRoot/WEB-INF/classes
